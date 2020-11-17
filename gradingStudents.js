@@ -1,4 +1,4 @@
-let grade = [99, 84, 37, 33];
+let grade = [73, 67, 38, 33];
 
 for (let i = 0; i < grade.length; i++) {
     if (grade[i] < 38) {

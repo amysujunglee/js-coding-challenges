@@ -1,4 +1,4 @@
-let time = "12:45:54PM";
+let time = "12:45:54AM";
 
 let ampm = time.slice(-2);
 let timeArr = time.slice(0, -2).split(":");
