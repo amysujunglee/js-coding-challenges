@@ -1,5 +1,5 @@
 # js-coding-challenges
-JavaScript Coding Challenges - Algorithms, Data Structure, OOPs
+JavaScript coding challenges - Algorithms, Data Structure, OOPs
 
 Languages used:
 - JavaScript
