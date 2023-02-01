@@ -1,5 +1,5 @@
-# js-coding-challenges
+# JavaScript Coding Challenges
 JavaScript coding challenges from Hackerrank (www.hackerrank.com): Algorithms, Data Structure, OOPs, Linked list etc.
 
-Language used:
+## Language
 - JavaScript
